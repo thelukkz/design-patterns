@@ -15,3 +15,12 @@ Creational Design Patterns:
 
    + separete the construction of a complex object from its representation so thaht you can use the same construction process for different types of objects
    + parse a complex representation and create one of several target objects out of it
+
+3. Factory Method Pattern
+
+   + define an interface for creating objects, but you want to let subclasses decide which class to instantiate
+   + decuple requesting objects from creating objects
+   + calling code doesn't need to know what types of objects are created
+
+![abstract factory pattern diagram](./Diagrams/factoryMethodPattern.png)
+![abstract factory pattern diagram](./Diagrams/factoryMethodPattern2.png)
