@@ -24,3 +24,11 @@ Creational Design Patterns:
 
 ![abstract factory pattern diagram](./Diagrams/factoryMethodPattern.png)
 ![abstract factory pattern diagram](./Diagrams/factoryMethodPattern2.png)
+
+4. Prototype Pattern
+   
+   + use a prototype object instance for creating new objects, by copying the prototype
+   + constructing a new object from zero takes a lot of time and effort
+   + move construction logic away from the calling code
+
+![abstract factory pattern diagram](./Diagrams/prototypePattern.png)
