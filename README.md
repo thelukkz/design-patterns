@@ -32,3 +32,11 @@ Creational Design Patterns:
    + move construction logic away from the calling code
 
 ![abstract factory pattern diagram](./Diagrams/prototypePattern.png)
+
+5. Singleton Pattern
+
+   + ensure that a class has only one instance
+   + provide global access to that single instance
+   + make use of lazy initialization, also sometimes called just-in-time initialisation
+
+![abstract factory pattern diagram](./Diagrams/singletonPattern.png)
