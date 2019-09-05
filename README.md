@@ -40,3 +40,12 @@ Creational Design Patterns:
    + make use of lazy initialization, also sometimes called just-in-time initialisation
 
 ![abstract factory pattern diagram](./Diagrams/singletonPattern.png)
+
+Structural Design Patterns:
+6. Adapter Pattern
+
+   + Convert the interface of one class into another
+   + Wrap an existing class with new interface
+   + Introduce a legacy component into a new system
+
+![abstract factory pattern diagram](./Diagrams/adapterPattern.png)
