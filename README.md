@@ -11,7 +11,7 @@ Creational Design Patterns:
 
 2. Builder Pattern
 
-![abstract factory pattern diagram](./Diagrams/builderPattern.png)
+![builder pattern diagram](./Diagrams/builderPattern.png)
 
    + separete the construction of a complex object from its representation so thaht you can use the same construction process for different types of objects
    + parse a complex representation and create one of several target objects out of it
@@ -22,8 +22,8 @@ Creational Design Patterns:
    + decuple requesting objects from creating objects
    + calling code doesn't need to know what types of objects are created
 
-![abstract factory pattern diagram](./Diagrams/factoryMethodPattern.png)
-![abstract factory pattern diagram](./Diagrams/factoryMethodPattern2.png)
+![factory method pattern diagram](./Diagrams/factoryMethodPattern.png)
+![factory method pattern diagram](./Diagrams/factoryMethodPattern2.png)
 
 4. Prototype Pattern
    
@@ -31,7 +31,7 @@ Creational Design Patterns:
    + constructing a new object from zero takes a lot of time and effort
    + move construction logic away from the calling code
 
-![abstract factory pattern diagram](./Diagrams/prototypePattern.png)
+![prototype pattern diagram](./Diagrams/prototypePattern.png)
 
 5. Singleton Pattern
 
@@ -39,7 +39,7 @@ Creational Design Patterns:
    + provide global access to that single instance
    + make use of lazy initialization, also sometimes called just-in-time initialisation
 
-![abstract factory pattern diagram](./Diagrams/singletonPattern.png)
+![singleton pattern diagram](./Diagrams/singletonPattern.png)
 
 Structural Design Patterns:
 6. Adapter Pattern
@@ -48,4 +48,13 @@ Structural Design Patterns:
    + Wrap an existing class with new interface
    + Introduce a legacy component into a new system
 
-![abstract factory pattern diagram](./Diagrams/adapterPattern.png)
+![adapter pattern diagram](./Diagrams/adapterPattern.png)
+
+7. Bridge Pattern
+
+   + Combine two or more orthogonal class hierarchies
+   + Bind an implementation to a class at runtime
+   + Clean up a proliferation of classes resulting from an interface coupled with lots of implementations
+   + Share an implementation among multiple objects
+
+![bridge pattern diagram](./Diagrams/bridgePattern.png)
