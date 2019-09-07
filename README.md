@@ -58,3 +58,18 @@ Structural Design Patterns:
    + Share an implementation among multiple objects
 
 ![bridge pattern diagram](./Diagrams/bridgePattern.png)
+
+8. Composite Pattern
+
+   + You need a tree structure to represent a part hierarchy
+   + You want to compose objects out of one or more child objects
+   + You want clients to treat individual objects and compositions of objects in exactly the same way
+
+![composite pattern diagram](./Diagrams/compositePattern.png)
+
+9. Decorator Pattern
+
+   + Attach functionality to an object dynamically
+   + You are unable to use subclassing
+
+![decorator pattern diagram](./Diagrams/decoratorPattern.png)
