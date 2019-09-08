@@ -73,3 +73,11 @@ Structural Design Patterns:
    + You are unable to use subclassing
 
 ![decorator pattern diagram](./Diagrams/decoratorPattern.png)
+
+10. Facade Pattern
+
+   + Provide a unified high-level interface to a set of low-level interfaces in a subsystem
+   + Make the subsystem easier to use
+   + Wrap a complicated subsystem with a simpler interface
+
+![facade pattern diagram](./Diagrams/facadePattern.png)
