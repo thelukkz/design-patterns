@@ -88,3 +88,9 @@ Structural Design Patterns:
    + Requirement: the state information of each object can be retrieved on demand
 
 ![flyweight pattern diagram](./Diagrams/flyweightPattern.png)
+
+12. Proxy Pattern
+
+   + You want to provide a surrogate or placeholder for another object
+
+![proxy pattern diagram](./Diagrams/proxyPattern.png)
