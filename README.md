@@ -81,3 +81,10 @@ Structural Design Patterns:
    + Wrap a complicated subsystem with a simpler interface
 
 ![facade pattern diagram](./Diagrams/facadePattern.png)
+
+11. Flyweight Pattern
+
+   + Support a very large numbers of fine-grained objects
+   + Requirement: the state information of each object can be retrieved on demand
+
+![flyweight pattern diagram](./Diagrams/flyweightPattern.png)
